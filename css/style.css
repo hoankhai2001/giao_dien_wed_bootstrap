@@ -1,0 +1,10 @@
+.container{
+	width: 1170px;
+}
+.left{
+	padding: 20px;
+	left: 330px;
+}
+body{
+	background-color: #f6f5f1;
+}
